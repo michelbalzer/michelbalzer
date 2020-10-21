@@ -1,4 +1,4 @@
-# Hi, I'm Michel 👋
+# Hi! 👋
 
 I'm a frontend developer in the heart of the Ruhr region (Ruhrpott) working for a Dortmund based IT company, mostly crafting websites for governmental / public sector clients. I use good old frontend techniques like HTML5 and CSS3, some bits of Javascript and more backend related languages like JSP, Velocity and PHP.
 
