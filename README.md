@@ -2,7 +2,7 @@
 
 I'm a <i>frontend / backend web developer</i> in the heart of the Ruhr region, working for a Dortmund based IT company, mostly crafting websites for governmental / public sector clients. I use good old techniques like HTML5 and CSS3, some bits of Javascript and more backend related languages like JSP, Velocity and PHP.
 
-Find me on [Twitter]([url](https://twitter.com/ohne_a)), [Xing]([url](https://www.xing.com/profile/Michel_Balzer/cv)) or [LinkedIn]([url](https://de.linkedin.com/in/michel-balzer-414563204)).
+Find me on [Twitter](https://twitter.com/ohne_a), [Xing](https://www.xing.com/profile/Michel_Balzer/cv) or [LinkedIn](https://de.linkedin.com/in/michel-balzer-414563204).
 
 <!--
 **michelbalzer/michelbalzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
