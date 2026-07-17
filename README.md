@@ -1,6 +1,8 @@
 # Hi! 👋
 
-I'm a <em>frontend/backend web developer</em> in the heart of the Ruhr area, working for an IT company in Dortmund that mainly builds websites for clients in the public sector. I mainly work with HTML, CSS, a bit of JavaScript, JSP, Velocity and a few other things. In my private life I'm a father and husband.
+I am a <em>front-end/back-end web developer</em> and live in the heart of the Ruhr region.
+I work for an IT company in Dortmund, where I mainly develop websites for the public sector, using primarily HTML, CSS, JS and JSP/Velocity.
+In my private life, I am a husband and father of two children.
 
 <!--
 **michelbalzer/michelbalzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
