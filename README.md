@@ -1,7 +1,7 @@
 # Hi! 👋
 
-I am a <em>front-end/back-end web developer</em> and live in the heart of the Ruhr region.
-I work for an IT company in Dortmund, where I mainly develop websites for the public sector, using primarily HTML, CSS, JS and JSP/Velocity.
+I am a <em>front-end/back-end web developer</em> and live in the heart of the Ruhr region.<br>
+I work for an IT company in Dortmund, where I mainly develop websites for the public sector, using primarily HTML, CSS, JS and JSP/Velocity.<br>
 In my private life, I am a husband and father of two children.
 
 <!--
